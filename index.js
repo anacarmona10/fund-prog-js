@@ -3,3 +3,4 @@ function calculateTip(billAmount, tipPercentage){
     console.log("La propina que debe dar es " + tip)
 }
 
+calculateTip(200, 10);
